@@ -10,7 +10,7 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
-public class GameScreen extends AbstractScreen+1{
+public class GameScreen extends AbstractScreen{
     private Actor actor;
     private TileMap map;
     private Texture standsouth;
