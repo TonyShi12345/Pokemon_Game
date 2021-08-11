@@ -4,7 +4,7 @@ import Pokemon_model.Actor;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.InputAdapter;
 
-public class PlayerController extends InputAdapter {
+public class PlayerController1 extends InputAdapter {
     private Actor actor;
     public PlayerController(Actor p){
         this.actor = p;
